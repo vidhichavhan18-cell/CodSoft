@@ -84,3 +84,91 @@ Through this project, I learned:
 * Building menu-driven applications
 * Problem-solving and logical thinking
 
+
+## 2.Calculator Application
+
+## Project Description
+
+The Calculator Application is a simple command-line Python program that performs basic arithmetic operations. The user enters two numbers and selects an operation, and the program calculates and displays the result.
+
+## Features
+
+* Addition of two numbers
+* Subtraction of two numbers
+* Multiplication of two numbers
+* Division of two numbers
+* User-friendly menu-driven interface
+* Error handling for division by zero
+* Validation for invalid operation choices
+
+## Technologies Used
+
+* Python 3
+* Functions
+* Conditional Statements (if-elif-else)
+* User Input Handling
+* Formatted String Literals (f-strings)
+
+## Usage
+
+1. Enter the first number.
+2. Enter the second number.
+3. Select an operation:
+
+   * **1** → Addition (+)
+   * **2** → Subtraction (-)
+   * **3** → Multiplication (*)
+   * **4** → Division (/)
+4. View the calculated result.
+
+## Project Structure
+
+```text
+Calculator-App/
+│
+├── calculator.py
+└── README.md
+```
+
+## Sample Output
+
+```text
+----- SIMPLE CALCULATOR -----
+
+Enter first number: 10
+Enter second number: 5
+
+Choose an operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+
+Enter your choice (1/2/3/4): 1
+
+Result: 10.0 + 5.0 = 15.0
+```
+
+## Future Enhancements
+
+* Add more mathematical operations
+* Support multiple calculations without restarting
+* Add graphical user interface (GUI)
+* Add calculation history feature
+* Improve input validation
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+* Python programming fundamentals
+* Function creation and usage
+* Taking user input
+* Conditional statements
+* Error handling
+* Mathematical operations in Python
+* Building menu-driven applications
+
+
+
+
